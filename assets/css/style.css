@@ -7692,7 +7692,7 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important;
+  margin: 3rem !important;
 }
 
 .mr-5,
@@ -8553,7 +8553,7 @@ button.bg-dark:focus {
   }
 
   .m-md-5 {
-    margin: 3rem !important;
+    margin: 9rem !important;
   }
 
   .mt-md-5,
